@@ -1,2 +1,1 @@
-terminal-one: npm install hardhat
-tabs: ['contracts/TaskNumber.sol']
+tabs: ['src/app.js']
